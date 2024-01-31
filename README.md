@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajatpandit545" target="blank"><img src="https://img.shields.io/twitter/follow/rajatpandit545?logo=twitter&style=for-the-badge" alt="rajatpandit545" /></a> </p>
 
-<p align="left">🔭 I’m currently working on Infrastructure Orchestration and cloud-native technologies<br><br>👯 I’m looking to collaborate on Cloud-Native Projects<br><br>🤝 I’m looking for help with Devops<br><br>📫 How to reach me rajatpandit545@gmail.com</p>
+<p align="left">🔭 I’m currently working on <b>Infrastructure Orchestration and cloud-native technologies</b><br><br>👯 I’m looking to collaborate on <b>Cloud-Native Projects</b><br><br>🤝 I’m looking for help with <b>Cloud Applications Development</b><br><br></p>
 
 
 <h3 align="left">🛠  Programming Language Stack</h3>
@@ -109,9 +109,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/rajat-8953141a0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/rajatpandit545" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
